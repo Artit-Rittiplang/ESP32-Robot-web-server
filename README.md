@@ -53,7 +53,7 @@ The interface is hosted directly on the ESP32. It requires no app installationâ€
 
 1.  **Hardware:** Assemble the robot according to the wiring diagram above.
 2.  **Software:**
-    * Open `wifi_server.ino` in the Arduino IDE.
+    * Open `attached file` in the Arduino IDE.
     * Install the **ESP32 Board Manager** if you haven't already.
     * Update the `ssid` and `password` variables at the top of the file to match your WiFi network (or set up the ESP32 as an Access Point).
 3.  **Upload:** Connect your ESP32 via USB and upload the code.
